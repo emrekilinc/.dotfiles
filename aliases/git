@@ -1,0 +1,8 @@
+alias gs='git status --short'
+alias gl='git log'
+alias gd='git diff'
+alias glg='git lg'
+alias gp='git push'
+alias gc='git commit'
+alias gcl='git clone'
+alias ga='git add'

@@ -1,0 +1,19 @@
+alias ..='cd ..'
+alias la='ls -al'
+alias l='ls'
+alias h='history'
+alias j='jobs -l'
+alias vi='vim'
+alias svi='sudo vim'
+
+alias bi='bundle install'
+
+alias sbp='source ~/.bash_profile'
+
+# Path aliases
+alias td='cd ~/code/work/3dkonut/code/estate'
+alias tdn='cd ~/code/work/3dkonut/code/td'
+alias artemoni='cd ~/code/work/artemoni/code/artemoni'
+alias bree='cd ~/code/work/bree/app/bree'
+alias code='cd ~/code/work'
+alias yorumluo='cd ~/code/work/yorumluo/code'
